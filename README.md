@@ -2,7 +2,7 @@
 <!-- Nome do projeto -->
 # nubeck <!-- Listagem dos endpoints -->
 ## Endpoints 
-- [Cadastro de desepesa](#cadastro-de-despesa)
+- [Cadastro de despesa](#cadastro-de-despesa)
 - [Detalhar despesa](#detalhar-despesa)
 - Listar despesas
 - Apagar despesa
